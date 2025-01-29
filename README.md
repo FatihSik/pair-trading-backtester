@@ -1,5 +1,10 @@
 # Pair Trading Backtester
 
+## Important Information
+The programme has problems retrieving financial data if there isn't any present - will fix it soon
+The programme also struggles sometimes with larger index funds like the S&P500
+
+
 ## Overview
 This project is a **pair trading backtesting system** with a graphical user interface (GUI) built using **Tkinter**. The system allows users to select stock pairs from major indices (e.g., S&P 500, DJIA, and Crypto), perform statistical analysis, and run backtests to evaluate trading strategies.
 
